@@ -2,14 +2,6 @@
 
 Real Estate is a locally owned real estate company. we are dedicated to providing personal service and helping our clients have a satisfying and successful real estate transaction.
 
-Languages Used:
+FrontEnd: HTML, CSS, Bootstrap, JavaScript
 
-HTML
-
-CSS
-
-Bootstrap
-
-JavaScript
-
-MySQL
+BackEnd: MySQL
